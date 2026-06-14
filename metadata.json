@@ -1,0 +1,6 @@
+{
+  "name": "FinShield AI - Enterprise Banking Intelligence Platform",
+  "description": "An AI-powered banking intelligence dashboard for real-time fraud analysis, risk evaluation, and compliance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
