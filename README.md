@@ -309,7 +309,7 @@ This project is released under the MIT License.
 
 # 👨‍💻 Author
 
-**Vishnu Priya**
+**Vishnu Priya Nedunoori**
 
 Passionate about Artificial Intelligence, Machine Learning, Financial Technology, and Enterprise AI Systems.
 
